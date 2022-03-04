@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+img{
+border-style:double;
+}
+h1{
+  font-size:34px;
+  color:orange;
+}
+h4{
+  font-size:24px;
+  color:blue
+}
+p{
+  font-size:16px;
+  color:white 
+}
